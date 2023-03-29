@@ -1,1 +1,1 @@
-echo "Jenkins is working"
+echo "Jenkins is working : test"
